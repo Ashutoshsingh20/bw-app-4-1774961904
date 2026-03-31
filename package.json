@@ -1,7 +1,7 @@
 {
   "name": "bw-app-4-1774961904",
   "version": "1.0.0",
-  "description": "Polar Orbit monochrome ops dashboard",
+  "description": "Marble Pulse monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
